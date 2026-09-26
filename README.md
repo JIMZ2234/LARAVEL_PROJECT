@@ -35,3 +35,6 @@ Database Used: SQLite
 6. Set `DB_CONNECTION=sqlite` in `.env`
 7. Run migrations: `php artisan migrate`
 8. Start the server: `php artisan serve`
+   
+## WEBSITE LINK
+https://fluffy-tribble-gxrrgqg5q9v7hvwx9-8000.app.github.dev/
