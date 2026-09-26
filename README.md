@@ -1,9 +1,9 @@
 # Personal Task Manager (Laravel)
 
-Project Code: WST21-PM-2026-SF
-Student Name: COMENDADOR JAMES D.
-Course & Year: BSIT 2, SECTION 2
-Database Used: SQLite
+- Project Code: WST21-PM-2026-SF
+- Student Name: COMENDADOR JAMES D.
+- Course & Year: BSIT 2, SECTION 2
+- Database Used: SQLite
 
 ## Features
 - Add Task
