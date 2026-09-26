@@ -16,6 +16,9 @@ Database Used: SQLite
 - Dashboard summary cards (Total, Pending, Completed tasks)
 - Responsive design (mobile-friendly table view)
 - Status badges for quick visual reference
+![Dashboard View](Dashboard.jpeg)
+![Dashboard View](Add-Task.jpeg)
+
 
 ## Tech Stack
 - Laravel (Routes → Controller → Model → Database → Blade)
